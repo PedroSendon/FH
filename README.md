@@ -1,4 +1,4 @@
- Factores Humanos - Proyecto Web de Delivery de Comida 2023
+# Factores Humanos - Proyecto Web de Delivery de Comida 2023
 
 Bienvenido al repositorio del proyecto de la asignatura "Factores Humanos", un componente esencial del tercer año en la carrera de Ingeniería Informática en la Universidad de Barcelona (UB). Este proyecto consiste en el desarrollo de una plataforma de delivery de comida, diseñada con un enfoque centrado en el usuario para garantizar una experiencia óptima.
 
